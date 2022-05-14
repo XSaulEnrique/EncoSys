@@ -1,8 +1,15 @@
 # Proyecto EncoSys
-### Sistema desarrallado para el curso integrador II
+### Sistema desarrallado para el curso integrador II :relaxed:
 
-##Herramientas
+## Herramientas y Tecnologias
 
-*Java
-*MySql
-*Lucidchart
+- Java
+- MySql
+- Lucidchart
+- Xampp
+- Maven
+- NetBeans IDE 8.2
+
+## Metodologia
+
+- Scrum
