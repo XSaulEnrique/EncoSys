@@ -5,6 +5,7 @@ public class Categoria {
     private int id;
     private String descripcion;
     private int estado;
+    
 
     public int getId() {
         return id;
