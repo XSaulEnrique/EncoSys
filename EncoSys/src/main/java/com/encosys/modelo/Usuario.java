@@ -9,7 +9,6 @@ public class Usuario {
     private String contrasena;
     private int estado;
 
-
  
     public int getId() {
         return id;
