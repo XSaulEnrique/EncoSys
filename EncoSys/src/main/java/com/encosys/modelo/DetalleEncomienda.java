@@ -10,6 +10,7 @@ public class DetalleEncomienda {
     private double preciounitario;
     private int peso;
     private int estado;
+    
 
     public int getId() {
         return id;
