@@ -16,6 +16,7 @@ public class Encomienda {
     private double preciototal;
     private List<DetalleEncomienda> detalleEncomiendas;
     private int estado;
+    
 
     public int getId() {
         return id;
