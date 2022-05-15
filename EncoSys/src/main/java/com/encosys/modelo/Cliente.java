@@ -12,6 +12,7 @@ public class Cliente {
     private String celular;
     private String direccion;
     private int estado;
+    
 
     public int getId() {
         return id;
